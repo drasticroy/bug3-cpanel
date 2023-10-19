@@ -12,7 +12,7 @@ global.location = "Indonesia" //ur location
 //new
 global.ownergc = "-"
 global.botname = "Created By Kyuu"
-global.ownerNumber = ["6281351692548@s.whatsapp.net"]
+global.ownerNumber = ["254740279985"]
 global.ownerweb = "https://youtube.com/@YTKyuuTense"
 global.themeemoji = '🪀'
 global.wm = "kyuu.my.id"
